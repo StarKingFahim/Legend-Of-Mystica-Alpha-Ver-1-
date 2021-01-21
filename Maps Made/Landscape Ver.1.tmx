@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="70" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="Village Map Texture.tsx"/>
+ <layer id="1" name="Terrain" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2t1qwzAMBWC/xdjaQa5Hu65vENoX3aPOoc1QhW3JtuI/5eJQKCHUH0ehiXMxxlwE82NzBTk/v/9+Jvf80yO/VCTXJJF3m0/gMtt8AZdcm15dVpsj8ME2Ai7d2izrhzMFbXLP3btLaKY0u+DOrNdhzbO0urg6czOP3uydee0MnCnNLrgz+L9Nhkv3NntnineGdGnRBv7PddnMJr0zPbtgG9c8pXYmxqVFG6ozWl2ozswmbZamSJvaBpRNrc7UXj9ls3yGntNo7MwaKZeROrO7lHEZxeZkc2/c5YaSe/8fiu+a26IL/n3XDY2WNbu6knufBFxYNqkuWxn57gMkXGI6I+GCjXJ8fF35sHkz+fsFXBeOTYwLfA7JvSadwHEck1ZcjuZ1ryclLquQhes5eMn9E47LGrwXViqtu2AfiR6N5EI5SXv16hLjlWIFXUrtQ27p4rM6oFBWGlw4Vq7nURpdcHz71dpdqPeGtLpQnSnhUnv9XJfZyHSmd5fQvqNmF59N7jyN4LIkNE+JJsO4SHWGa9KDC9WZGJvRXKSuwaO5+Gxi5mka1MVlE7NvEmPSm8uSlPfDJ2UusDOSLrXXuLs04UJ5/B9Xe40V+sIJ2+UP4xCLjw==
+  </data>
+ </layer>
+ <layer id="5" name="Upper Terrain" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2rENAjEQRNFrAmqAbkio4BIqIKF5vAGRv8VeYGS0/0nOHFij8R6W2Lb/8kjs2aefYj3mws5t3b/sebZ1+cFZVmNnmLkw79KYnWHmwrxLY3aGZXKp2JlMLqFaZ7K5VOtMNpdQqTOZb9JHpVyCM4ZlO1NtxgQ7w7KdqZZL8Dce8y4xc2HOmDHf18zZy5wxzFwkzeJ8YebCzIWZC8vkcmvrNPsgi/F9xMyFmQszl961rVdiX7Vc/EYzc2Hm0svOllApF//v0TvSlVAllyNdqfQ28g4xc2GzcnkDwXMn6w==
+  </data>
+ </layer>
+ <layer id="6" name="Civilization" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2EEOgjAQBdByADdewCN4C3XFHl2xV1duTXpbQzmEDtEJAxYMESgw/yWTFjTYTqaANQYAAKbCUayid2Sfft7xGvdogIEFxjnxhQs9uEB4/rnoP0w1N1noQY5MrpumWpHHWvjWS1E3MleZqdaSBsV8izXDdZGZcg05419bGu43vrWTe87L+tGC14281/Ix58iJz6f4/I4HuOavetF675Xz5pzU60dbTqSm+uD1BAAAAMvwDD2AjsbaU1srfQcE+NcS9719+pxn3znbUewpDu2tpe/Zfn95GGnLOW5v4jht6CcUR4pTe2uTmeSF8RzlflJsyvnH5jtf/NmW4kxxobi2t/Y8s7yw+tzr/fo+nK/eALTZKHmWAwDAfGj5nwkAAAAA+kzpXfcFlJ9IfQ==
+  </data>
+ </layer>
+ <group id="3" name="Forest">
+  <layer id="2" name=" Forest 1" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJzt1FsKwjAQheEEXYNuz9sOvO3A22p1B54+CCW0mRofRpj/g6EQ2nSm5DQlAAAAAAAAAAAAAAAAAL96ql7eTfyhWU5pnr278FE7Ewt9k2XQ72KdiahZss4EWRpGlur3RMzT50zUZo+cp9rskfM0ZfaIeepYc0fNkzV31DxN+QdHzVKndm6iZqlTy4tnllZ671q1UW1Vu+y39k1frcr9xvrY63pQHVUn1Tn7rfVZz7Qq9xvr46LrVXVT3VWP7LfWZz3Tqtxv6D1viEdc3Q==
+  </data>
+  </layer>
+  <layer id="4" name="Forest 2" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJzt0zkOwjAQheFYcAa4XlhuEJY2VVhOCzfguaCIldhDGiPN/0kjpHE8xJFf0wAAAAAAAAAAAAAAACD1Ur1rv8QfWoWmWYfab1FH7k5s9E22Tr9L6U54zVLpTnjOUo7nLFmy4jFPlqx4zJMlK57zZOExT1Hp3B7zFJXO7TVPlnN7zVKUO7vXLEW5s3vNUlQ6u+cs5dTKUqv/3Kn2qoPqGMa9dH3qeeusXG/O9z61P+6boz19/C3N6dQ7qc6qi+oaxr10fep566xcr6RbuC+lPb1lzqDeTXVXPVTPMO6l61PPW2fleiXDwn0p7ektcz7LQ1Lj
+  </data>
+  </layer>
+ </group>
+</map>

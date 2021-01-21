@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="70" height="50" tilewidth="32" tileheight="32" infinite="0" nextlayerid="9" nextobjectid="1">
+ <editorsettings>
+  <export target="Original Map Ver..js" format="js"/>
+ </editorsettings>
+ <tileset firstgid="1" source="Village Map Texture.tsx"/>
+ <layer id="1" name="Terrain" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1rFOQzEMBdD8BMyMoE5MhV8ABgRiLCCxwAYMiMII/Dd+aitVVV+TJrbvdV+HO77EPnXSjFJKI5Kcrknum2fJUUGuJQcEPWq4lHxT6vJE0J+HyYlkKvnOeHRzcpNizkqNyZA8ci6dx2fGRMujr7bS8+1l0qXkLtG6Rza5WFi17MHsUuu17XrnKT1eSR4k75I/yUuBy0eanbVFjpWcNM1a1jkTh0vJveRN8ivJmaCcNOcr5zYWhwvJRPIq+al02eRkZeR9R5W+4bYxmi7F2qnPqnXNQ8mdss2q09c8EW1u57E0iubSZ7SaVrOI56nVbF08LBhcWusdmov1f2ZLLawWu+pi8eaM6KLpgJhljb2j9q7pEn0OtFwsHFgtci671qOGy5AtWlzQ9TKZoOtkc0HXx+aCrovJBF0PS7xcIt3rVrVEfvdp1aBpwGBTs7eHAdIG2R+rC7o/Rht0X6w26J4YXdD9MLqUro3u2dOldl10/1YuWmuiHRhN2Iy069Y6kygfizq1TbyN2GfE08tyb7QL4++Brm1vwpW9ySz/TN1yEQ==
+  </data>
+ </layer>
+ <group id="3" name="Forests">
+  <layer id="5" name="Forest 2" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJztm21ugzAMhstN2ccN2m032Nadup5QhGfZsRNYHIgfyT9KgFBjv4kTMU+XyxPYM9gL2CsY5gq/b2BvYO9gH5PeVnONhS3XJtJ12r209k/4/QX2DXYH+5n0tpprLGy51nIvHB979nVkaHwECzQ+gpUZ5VKwgnMpWMG5FKxEvPBEvOjk5rojkvyxdV59VmKuG0jg+VzSk9AXvnYOfeFr59CXoITQl78kDR5RX7jxJ5E0eER9ya3dJg0e0S/c+ENjKBdTI0FjaI+9hzNAYyj2AxZo3gQLNG+OrCucNlqPUWjeHEVXuP/GaaP1mOarHnXF6gNOG63HNF95U+qDmtzh2jVfeWuLNQ5y52vHpLkI9Rfu11tbJB9I+V+TO1If1F+4z9baYs2DFvNN6i/PfTVrHrSab+J3gvtsXRtZ86AVUlyOXhtJ7yRqo4Woj3jOVB/tyVHro9a01JZe1wa9n6vXtcGaentPLOvNHjHE1aTe79Crf6328F7fLYkhLbZKYk+rPXqk5nsMqd1al9Pzehsbfin5HqNkrSmXp/Q8z7EhF/daTlj/r1Un6Hl76cosxKxlj7zkOyXufluf/z/HxKsQs5Y98pLvlHL+qtVr7p4Prslg1Q==
+  </data>
+  </layer>
+  <layer id="4" name="Forest 1" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJztm1lOxDAMhlOBBCcACS4HDDcYlhsMy2lBgndcdQImcjJOs9gBf5JfJm3jeOy/Sdo695vt5Nwd2D3YA9jj1K4tdQ6nfQ1cX0J28NsT2DPYC9jr1K4tdQ6nfQ1cX27ANmC3FfrM4QPss2+XWdTM0RxOoL/ToE/pWF2BP9f7XMnNUe976RguoL/LoE8qVj3BGpOL973FGKhY9QRrTC7ed+kxGDJI3Y808gb27paYSN2PNHIEMTjex6TmnGl0ziAG5yt1979g+kJj+kJj+mLkYPpCM4q+9F5ra9KX1Nil19qSpMbee52qSV8k1+h4T2pj66Nvwn1vTfoiSbjvbSyEdaRJXyQJ68j0ZSGsI9OXH3At/RVCfVijC7iWRtQXKgbUc2d8HCduuJa06ws3BtRzZ3wcdU4Yn5LnjS0piQEFPm4XyZnYexdS460dAw7U9WPvXfTQF8qf1jGgoK4f05we+kL50zoGHFLvHWnSl95o+G80Q2ndiPOX2lD1pH3+0gOqnqy26qwhRuqXC1VHUvMXTVB1JDV/0ZJDMT+k9EVLDmnxw6Mlh2JzO+k8xhzaQ6nhZ+p6uE1L/swc2kNJxapkze7BbdrnL9xY1Vizl7zXrAHu+jwWg1gt4d+5tcvN01S/XJ9anjPD+QaJe4/i5mmqX65PLc+Z4XyD9AUoxT8E
+  </data>
+  </layer>
+ </group>
+ <layer id="2" name="Civilization and Buildings" width="70" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmDtOw0AURSepgS1AlsBnfZAtkJAmfKoQaPhVIdAQQgk0/DbBIjhCdLyZMYzisex7pNPEVvJ8ZEd6dk4Uod9ybg8HrdyTlMN227kd7LbD543pcYKnJXb5LPjZItilRw/7kS5TetzgbUldymiyEriWET2OcRzp8sh3POHzH7sMOX8fD/AQjyr0HHYCs0zocY3TSJf/csZvn+MFXuJVhbrk5I4OM7zHOT6oyzcvdHjFN3zHD3URCaz/KH6jLja6Z/yoi43uGT/qYqMuNnXtEtpPixDrUuUdNERoPy1CrEtTd9BYl6buoLEuTd1B6/q/m4q62KiLjbrYqIuNutioixBCiKaS+s6orqS+MxL1YgmXPXKsm2+yvKzimsdOlomqgbrYqIuNutioi4262GzgpsetjHMJIYQQKXwB8D89qA==
+  </data>
+ </layer>
+ <group id="7" name="Group 2">
+  <layer id="6" name="Extras" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJzt1zkNgkEUhdFBFgaoMECHAHSwKmBVwKqAVRjXA8k/Q3JO8vW3ecUrBaBb/V7tBcDQHQIAANARPygAAAAA/J9pmqV5WqRlWlVd1IZ12qRt2qV9OlRd1IZjOqVzuqRrulVd1IZ7eqRneqV3+tQcRPMGpYxHaZJqbwGAX30BbOESeA==
+  </data>
+  </layer>
+  <layer id="8" name="Extras2" width="70" height="50">
+   <data encoding="base64" compression="zlib">
+   eJztml1OwkAYRaf0kYoGFoDSxgWoRTeAP6xa3QK6BfWBBVB9kNtIIqnTTls7ZdrvnuQESEOhJ8NkSEcpQgixzzrz+vsg36Jdbrzq7xl7P632JcQ2kxpj1SX4mylHtlNTrQJfqSM4gsfwxG/oxB1nig6n8AzOYCiky7lhPrlAh0t4BWM4F9LFxAIdbuEdvIcP7EIMcO7VI3XuNcG5Vw/nXkLIDGvXEEbe7/PsY9Tx/8t1iEtc8zW7aGEXPeyih130sIseiV3KXLPELsvdOiXPdP2yFNiFEOIGXb/fSAj5y+NAqSf4PLD7Oab7i66xQo8X+Gqxi4v7HjYwKTj+hh7v8MNSFxebpAwxfoOCMZygxyf8arhL3p4PVzu1Qd61S21StC9IYhPTPimpTf5zvI+YxgibVD/eR9iEkOpsAfhePKs=
+  </data>
+  </layer>
+ </group>
+</map>
